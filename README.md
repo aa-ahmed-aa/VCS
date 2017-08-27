@@ -5,15 +5,15 @@ this is simple movies libraries for VCS, simple(CRUD) that can be sorted in the 
 - xamppp with (Apachie and phpmyadmin).
 
 ## Install
--run `composer update` .
--edit the `.env` file in the root of the project with your database credential .
--run the migration to create the tables `php artisan migrate` .
--using command prompt navigate to the root of the project then run `php artisan serve` to run the server.
--in the browser navigate to `localhost:8000/`
+-run `composer update`<br/>
+-edit the `.env` file in the root of the project with your database credential<br/>
+-run the migration to create the tables `php artisan migrate`<br/>
+-using command prompt navigate to the root of the project then run `php artisan serve` to run the server<br/>
+-in the browser navigate to `localhost:8000/`<br/>
 
 ## used technologies
--bootstrap.
--vu.js.
--laravel 5.3.
+-bootstrap<br/>
+-vu.js<br/>
+-laravel 5.3<br/>
 
 ## if there is any problem feel free to contact me at `ahmedkhaled36@hotmail.com`
