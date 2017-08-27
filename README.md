@@ -5,7 +5,7 @@ this is simple movies libraries for VCS, simple(CRUD) that can be sorted in the 
 - xamppp with (Apachie and phpmyadmin).
 
 ## Install
--run 'composer update'.<br/>
+-run `composer update`.<br/>
 -edit the `.env` file in the root of the project with your database credential<br/>
 -run the migration to create the tables `php artisan migrate`<br/>
 -using command prompt navigate to the root of the project then run `php artisan serve` to run the server<br/>
